@@ -112,7 +112,7 @@ img {
   border-width: 1px;
   border-color: #707070;
   border-radius: 8px;
-  background: #0D0D0D49;
+  background: #0D0D0D80;
   padding: 90px 90px 90px 90px;
   z-index: 1;
 }
